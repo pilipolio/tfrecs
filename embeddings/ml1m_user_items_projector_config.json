@@ -1,0 +1,1 @@
+{"embeddings": [{"metadataPath": "https://raw.githubusercontent.com/pilipolio/tfrecs/master/embeddings/ml1m_user_items_metadata.tsv", "tensorName": "ml1m_user_items", "tensorShape": [10016, 10], "tensorPath": "https://raw.githubusercontent.com/pilipolio/tfrecs/master/embeddings/ml1m_user_items.tsv"}]}
