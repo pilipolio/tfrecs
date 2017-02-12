@@ -1,13 +1,13 @@
 feature	feature_type	title
-age=1	user_based	
-age=18	user_based	
-age=25	user_based	
-age=35	user_based	
-age=45	user_based	
-age=50	user_based	
-age=56	user_based	
-gender=F	user_based	
-gender=M	user_based	
+age=1	user_based	age=1
+age=18	user_based	age=18
+age=25	user_based	age=25
+age=35	user_based	age=35
+age=45	user_based	age=45
+age=50	user_based	age=50
+age=56	user_based	age=56
+gender=F	user_based	gender=F
+gender=M	user_based	gender=M
 genre=Animation	item_based	Toy Story (1995)
 genre=Adventure	item_based	Jumanji (1995)
 genre=Comedy	item_based	Grumpier Old Men (1995)
